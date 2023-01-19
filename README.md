@@ -6,13 +6,13 @@ Bu repo Kodluyoruz  Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet
 
 Öncelikle projeyi clonelayın.
 
-```git clone https://github.com/ssametkaya/kodluyoruzilkrepo.git```
+`git clone https://github.com/ssametkaya/kodluyoruzilkrepo.git`
 
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
-Linux için: 
+Linux için:
 
 ```cd kodluyoruzilkrepo
 code .```
