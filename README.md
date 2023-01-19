@@ -14,9 +14,10 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 
-```cd kodluyoruzilkrepo
-code .```
-
+```
+cd kodluyoruzilkrepo
+code .
+```
 # License 
 
 [MIT](https://www.mit.edu/~amini/LICENSE.md)
